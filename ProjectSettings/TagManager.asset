@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Room_00
+  - Room_01
+  - Room_02
+  - Room_03
+  - Room_04
+  - Room_05
+  - Room_06
+  - Room_07
+  - Room_08
+  - Room_09
+  - Room_10
+  - Room_11
+  - Room_12
+  - Room_13
+  - Room_14
+  - Room_15
+  - Room_00_Up
+  - Plith
+  - Stuf
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
